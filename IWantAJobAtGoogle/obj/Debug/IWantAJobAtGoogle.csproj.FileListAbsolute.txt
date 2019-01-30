@@ -1,0 +1,7 @@
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #1 - Google\IWantAJobAtGoogle\bin\Debug\IWantAJobAtGoogle.exe.config
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #1 - Google\IWantAJobAtGoogle\bin\Debug\IWantAJobAtGoogle.exe
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #1 - Google\IWantAJobAtGoogle\bin\Debug\IWantAJobAtGoogle.pdb
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #1 - Google\IWantAJobAtGoogle\obj\Debug\IWantAJobAtGoogle.csprojAssemblyReference.cache
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #1 - Google\IWantAJobAtGoogle\obj\Debug\IWantAJobAtGoogle.csproj.CoreCompileInputs.cache
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #1 - Google\IWantAJobAtGoogle\obj\Debug\IWantAJobAtGoogle.exe
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #1 - Google\IWantAJobAtGoogle\obj\Debug\IWantAJobAtGoogle.pdb
